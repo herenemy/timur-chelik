@@ -9,15 +9,15 @@
 }
 
 .project--1 {
-    background-image: url(/resources/images/project-1.png);
+    background-image: url(../resources/images/project-1.png);
 }
 
 .project--2 {
-    background-image: url(/resources/images/project-2.png);
+    background-image: url(../resources/images/project-2.png);
 }
 
 .project--3 {
-    background-image: url(/resources/images/project-3.png);
+    background-image: url(../resources/images/project-3.png);
 }
 
 .projects__subtitle {

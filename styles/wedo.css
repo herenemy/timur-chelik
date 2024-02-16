@@ -13,16 +13,16 @@
 }
 
 .wedo__project--1 {
-    background-image: url(/resources/images/wedo-1.png);
+    background-image: url(../resources/images/wedo-1.png);
     width: 100%;
 }
 
 .wedo__project--2 {
-    background-image: url(/resources/images/wedo-2.png)
+    background-image: url(../resources/images/wedo-2.png)
 }
 
 .wedo__project--3 {
-    background-image: url(/resources/images/wedo-3.png)
+    background-image: url(../resources/images/wedo-3.png)
 }
 
 .wedo__block {

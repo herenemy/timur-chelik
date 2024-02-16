@@ -3,7 +3,7 @@
 }
 
 .social__links {
-    background-image: url(/resources/images/social-img.png);
+    background-image: url(../resources/images/social-img.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
