@@ -1,0 +1,22 @@
+.footer {
+    background-color: #000;
+    background-image: url(/resources/images/footer.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.footer__content {
+    padding: 100px 0 80px 100px;
+    font-family: "Manrope", sans-serif;
+}
+
+.footer__title {
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+
+.copyright {
+    font-size: 20px;
+    color: rgba(0, 0, 0, .6)
+}

@@ -1,0 +1,38 @@
+.project {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+
+    border-radius: 30px;
+
+    position: relative;
+}
+
+.project--1 {
+    background-image: url(/resources/images/project-1.png);
+}
+
+.project--2 {
+    background-image: url(/resources/images/project-2.png);
+}
+
+.project--3 {
+    background-image: url(/resources/images/project-3.png);
+}
+
+.projects__subtitle {
+    /* padding-top: 500px; */
+    color: #fff;
+    font-size: 35px;
+    position: absolute;
+
+    bottom: 50px;
+    left: 50px;
+}
+
+.projcts__suptitle {
+    font-size: 30px;
+    color: #fff;
+}
+
+

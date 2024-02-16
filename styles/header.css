@@ -1,0 +1,57 @@
+.header {
+    background-image: url(/resources/images/dev-pick.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1000px;
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo img {
+    width: 70px;
+    height: 70px;
+}
+
+.nav__item {
+    display: inline-block;
+       margin-right: 50px;
+}
+
+.nav__item:last-child {
+    margin-right: 0;
+}
+
+.nav__link {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.nav__link:hover {
+    color: #1BFF07;
+}
+
+.intro {
+    margin-top: 400px
+}
+
+.about__subtitle {
+    width: 500px;
+    line-height: 40px;
+    color: #fff;
+
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.about__suptitle {
+    font-size: 80px;
+    color: #1BFF07;
+
+    width: 1000px;
+}

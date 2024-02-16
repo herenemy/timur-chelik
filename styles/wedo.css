@@ -1,0 +1,48 @@
+.wedo {
+    margin-bottom: 100px;
+}
+
+.wedo:last-child {
+    margin-bottom: 0;
+}
+
+.wedo__project {
+    height: 260px;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+.wedo__project--1 {
+    background-image: url(/resources/images/wedo-1.png);
+    width: 100%;
+}
+
+.wedo__project--2 {
+    background-image: url(/resources/images/wedo-2.png)
+}
+
+.wedo__project--3 {
+    background-image: url(/resources/images/wedo-3.png)
+}
+
+.wedo__block {
+    background-color: #191C19;
+    width: 100%;
+    border-radius: 50px;
+}
+
+.title--wedo {
+    color: #1BFF07;
+}
+
+.wedo__block--text {
+    color: #fff;
+    line-height: 30px;
+    font-size: 22px;
+
+    width: 1200px;
+}
+
+.inner__padding {
+    padding: 80px 50px 80px 50px;
+}
